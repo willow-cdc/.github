@@ -21,6 +21,6 @@ Willow abstracts away the complexity of setting up and configuring open source t
 
 [Arno Cai](https://github.com/acai777) • Boston, MA
 
-[Cameron Bibb](https://github.com/cameronbibb) • Wilmore, KY
+[Cameron Bibb](https://github.com/cameronbibb) • Lexington, KY
 
 [Alex Bair](https://github.com/Alex-Bair) • Chapel Hill, NC
